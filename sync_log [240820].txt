@@ -1,0 +1,31 @@
+Modified files: Modified files found: 1
+
+[1] + '
+'Filename : .DS_Store
+Source : ../../../sync_test/source/.DS_Store
+Destination : ../../../sync_test/replica/.DS_Store
+MD5 : .DS_Store
+
+###############################################################################################
+
+Files that has been found on Source folder only: Files found: 0
+
+###############################################################################################
+
+Directories that has been found on Source folder only: Directories found: 0
+
+###############################################################################################
+
+Files that has been found on Target folder only: Files found: 1
+
+[1] + '
+'Filename : |.jpeg
+Location : ../../../sync_test/replica/|.jpeg
+MD5 : |.jpeg
+
+###############################################################################################
+
+Directories that has been found on Target folder only: Directories found: 0
+
+###############################################################################################
+
