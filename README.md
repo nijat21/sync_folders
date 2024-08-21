@@ -4,7 +4,7 @@
 
 ## Overview
 
-This script synchronizes the contents of two folders (`source` and `target`) by comparing their files and directories. It logs the differences and performs the necessary synchronization tasks, such as copying or deleting files and directories to ensure both folders are identical.
+This script unidirectionally synchronizes the contents of two folders (`source` and `target`) by comparing their files and directories. It logs the differences and performs the necessary synchronization tasks, such as copying or deleting files and directories to ensure both folders are identical. 
 
 ## How It Works
 
