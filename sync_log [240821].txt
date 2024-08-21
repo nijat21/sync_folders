@@ -1,0 +1,55 @@
+Modified files: Modified files found: 4
+
+[1] + '
+'Filename : .DS_Store
+Source : ../../../sync_test/source/.DS_Store
+Destination : ../../../sync_test/replica/.DS_Store
+MD5 : .DS_Store
+
+[2] + '
+'Filename : .DS_Store
+Source : ../../../sync_test/source/.DS_Store
+Destination : ../../../sync_test/replica/.DS_Store
+MD5 : .DS_Store
+
+[3] + '
+'Filename : .DS_Store
+Source : ../../../sync_test/source/.DS_Store
+Destination : ../../../sync_test/replica/.DS_Store
+MD5 : .DS_Store
+
+[4] + '
+'Filename : .DS_Store
+Source : ../../../sync_test/source/.DS_Store
+Destination : ../../../sync_test/replica/.DS_Store
+MD5 : .DS_Store
+
+###############################################################################################
+
+Files that has been found on Source folder only: 
+Files found: 0
+
+###############################################################################################
+
+Directories that has been found on Source folder only: 
+Directories found: 0
+
+###############################################################################################
+
+Files that has been found on Target folder only: 
+Files found: 1
+
+[1] + '
+'Filename : Nijat Ismayilov - Cover Letter.pdf
+Location : ../../../sync_test/replica/Nijat Ismayilov - Cover Letter.pdf
+MD5 : Nijat Ismayilov - Cover Letter.pdf
+
+###############################################################################################
+
+Directories that has been found on Target folder only: 
+Directories found: 0
+
+###############################################################################################
+
+Deleting files that don't exist in Source folder
+
